@@ -1,2 +1,2 @@
-  console.log(productCost);
-  console.log(date_Month);
+  console.log("React is running!");
+ 
